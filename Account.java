@@ -1,9 +1,4 @@
-/*
- *Michael Arrey
-  JAVA II
-  02/04/2020
-I Promise I wrote this code...
- */
+
 package account;
 
 
